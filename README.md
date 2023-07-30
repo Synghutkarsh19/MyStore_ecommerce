@@ -47,9 +47,13 @@ REACT_APP_API_URL=your_strapi_api_url
 ```
 
 4. Start the development server:
-
+5. In the client folder:
 ```bash
 npm start
+```
+6. In the api folder:
+```bash
+npm run develop
 ```
 
 ## Usage
