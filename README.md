@@ -2,7 +2,7 @@
 
 Welcome to our E-Commerce Website project built with ReactJS, HTML, CSS, Strapi API, and Stripe for payment processing. This project aims to provide an easy-to-use and efficient e-commerce platform for both customers and administrators.
 
-[Project Screenshot](project_ss1png)
+[Project Screenshot](project_ss1.png)
 
 ## Table of Contents
 
